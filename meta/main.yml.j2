@@ -1,37 +1,17 @@
 ---
 galaxy_info:
-  author: Robert de Bock
+  author: Mick Pollard
   role_name: {{ role_name }}
-  namespace: robertdebock
+  namespace: aussielunix
   description: Install and configure {{ role_name }} on your system.
-  license: Apache-2.0
-  company: none
-  min_ansible_version: 2.9
+  license: MIT
+  company: contojo
+  min_ansible_version: 3.5.1
 
   platforms:
-    - name: Alpine
-      versions:
-        - all
-    - name: Amazon
-      versions:
-        - all
-    - name: Debian
-      versions:
-        - all
-    - name: EL
-      versions:
-        - 7
-        - 8
-    - name: Fedora
-      versions:
-        - all
-    - name: OpenSUSE
-      versions:
-        - all
     - name: Ubuntu
       versions:
-        - focal
-        - bionic
+        - focal		# 20.04
 
   galaxy_tags:
     - {{ role_name | replace('_', '') }}
