@@ -5,13 +5,13 @@ about: Suggest an idea for this project
 ---
 
 ## Proposed feature
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]  
 A clear and concise description of what you want to happen.
 
 ## Rationale
 
-Why is this feature required?
+Why is this feature required ?
 
 ## Additional context
 

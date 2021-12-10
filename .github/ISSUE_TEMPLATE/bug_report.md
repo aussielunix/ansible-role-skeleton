@@ -11,7 +11,6 @@ A clear and concise description of what the bug is.
 Please paste the playbook you are using. (Consider `requirements.yml` and
 optionally the command you've invoked.)
 
-
 ```yaml
 YOUR PLAYBOOK HERE
 ```
