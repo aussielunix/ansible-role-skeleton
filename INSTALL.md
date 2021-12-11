@@ -16,7 +16,6 @@ find ./handlers -name main.yml -exec sed -i -e '$a\' {} \;
 find ./defaults -name main.yml -exec sed -i -e '$a\' {} \;
 rm INSTALL.md
 ```
-
 or add this to ansible.cfg:
 
 ```
